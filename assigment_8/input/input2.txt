@@ -1,0 +1,6 @@
+Ali m 100
+Selin f 200
+Selda f 700
+John m 600
+Emma f 800
+Michael m 750

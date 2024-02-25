@@ -1,0 +1,3 @@
+Ali m 500
+Selin f 200
+Selda f 700

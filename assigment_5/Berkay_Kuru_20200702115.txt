@@ -1,0 +1,20 @@
+1.)mkdir Assignment3
+   cd Assignment3
+   mkdir assn3
+   cd assn3
+   pwd > current.txt
+
+2.)nano me.txt
+   (Name: Berkay Kuru
+    School id: 20200702115)
+
+3.)cp me.txt mecopy.txt
+   mv mecopy.txt stillme.txt
+   rm me.txt
+
+4.)man ls | grep -c 'ls' >>stillme.txt
+
+5.)chmod u+x,g+x stillme.txt
+   chmod 110 stillme.txt
+
+6.)cd /Desktop
